@@ -1,0 +1,45 @@
+
+version 1:
+    -user-profiles
+    -comments
+    -likes, shares
+    -posts ( imgs, vids ) 
+    -friends
+    -activity feed
+
+
+version 2:
+    -company-profiles ( badge )
+    -Job boards 
+    -real-time chat 
+    -physical events/meetups postings
+    -event calendar 
+    -video playlist ( tutorials )
+    -language ( Pidgin, English, Tribal )
+
+
+version 3:
+    -voice/video calls 
+    -online events 
+    -online spaces ( voice, vids )
+    -News 
+    -online hackathons
+    -skill-based job matching
+    -analytics dashboard
+
+
+version 4: 
+    -crowdfunding
+    -startup funding 
+    -Virtual pitching
+
+
+version 5: 
+    -expand to Africa
+
+
+Monetization {
+    company Jobs
+    Analytics
+    crowdfunding
+}
