@@ -2,10 +2,11 @@
 version 1:
     -user-profiles
     -comments
-    -likes, shares
+    -upvotes, shares 
     -posts ( imgs, vids ) 
-    -connections
+    -connections count 
     -activity feed
+    -community forums 
 
 
 version 2:
