@@ -4,7 +4,7 @@ version 1:
     -comments
     -likes, shares
     -posts ( imgs, vids ) 
-    -friends
+    -connections
     -activity feed
 
 
@@ -39,7 +39,7 @@ version 5:
 
 
 Monetization {
-    company Jobs
-    Analytics
-    crowdfunding
+    Job listing fees
+    Company/host Analytics
+    crowdfunding commisions
 }
