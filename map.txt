@@ -16,7 +16,7 @@ version 2:
     -physical events/meetups postings
     -event calendar 
     -video playlist ( tutorials )
-    -language ( Pidgin, English, Tribal )
+    -language ( French, Swahili, Arabic, English )
 
 
 version 3:
@@ -35,12 +35,12 @@ version 4:
     -Virtual pitching
 
 
-version 5: 
-    -expand to Africa
+Monetization 
+    -Job listing fees
+    -Company/host Analytics
+    -crowdfunding commisions
 
 
-Monetization {
-    Job listing fees
-    Company/host Analytics
-    crowdfunding commisions
-}
+Domain 
+    -techtribe.africa
+
