@@ -1,21 +1,20 @@
 
 version 1:
     -user-profiles
-    -comments
-    -upvotes, shares 
     -posts ( imgs, vids ) 
-    -connections count 
+    -connections count (hidden)
     -activity feed
     -community forums 
+    -user social-links & bio
+    -company-profiles ( badge )
+    -job boards 
+    -engagement (comment, share, react, bookmark, repost, report)
 
 
 version 2:
-    -company-profiles ( badge )
-    -Job boards 
     -real-time chat 
     -physical events/meetups postings
-    -event calendar 
-    -video playlist ( tutorials )
+    -courses, tutorials 
     -language ( French, Swahili, Arabic, English )
 
 
@@ -33,14 +32,25 @@ version 4:
     -crowdfunding
     -startup funding 
     -Virtual pitching
+    -pair programming
 
 
-Monetization 
+Monetization
     -Job listing fees
     -Company/host Analytics
     -crowdfunding commisions
 
 
-Domain 
+Domain
     -techtribe.africa
 
+
+Tech Stack {
+    Express,
+    PostgreSQL,
+    Pinia 
+    Node,
+    Vue,
+    Nuxt,
+    OAuth
+}
