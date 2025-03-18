@@ -21,7 +21,7 @@ version 2:
 version 3:
     -voice/video calls 
     -online events 
-    -online spaces ( voice, vids )
+    -online spaces ( audio, vids )
     -News 
     -online hackathons
     -skill-based job matching
@@ -46,11 +46,13 @@ Domain
 
 
 Tech Stack {
-    Express,
-    PostgreSQL,
-    Pinia 
-    Node,
-    Vue,
-    Nuxt,
-    OAuth
+    Express, Node
+    SocketIO
+    PostgreSQL, Prisma,
+    Vue, Nuxt,
+    ElasticSearch,
+    Redis,
+    GSAP,
+    OAuth,
+    Cloudinary
 }
