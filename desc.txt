@@ -4,7 +4,6 @@ version 1:
     -posts ( imgs, vids ) 
     -connections count (hidden)
     -activity feed
-    -community forums 
     -user social-links & bio
     -company-profiles ( badge )
     -job boards 
@@ -13,32 +12,54 @@ version 1:
 
 version 2:
     -real-time chat 
-    -physical events/meetups postings
-    -courses, tutorials 
+    -physical events/meetups posting
     -language ( French, Swahili, Arabic, English )
 
 
 version 3:
+    -online communities/groups
+
+
+version 4:
     -voice/video calls 
     -online events 
-    -online spaces ( audio, vids )
-    -News 
+
+
+version 5: 
+    -online spaces (audio)
+
+
+version 6:
+    -pair programming
+
+
+version 7:
+    -freelance marketplace
+    -collab hub
+
+
+version 8:
     -online hackathons
     -skill-based job matching
-    -analytics dashboard
 
 
-version 4: 
+version 9: 
+    -virtual pitching
     -crowdfunding
-    -startup funding 
-    -Virtual pitching
-    -pair programming
+    -vc funding
+
+
+version 10:
+    -analytics dashboard (companies & freelancers)
 
 
 Monetization
     -Job listing fees
-    -Company/host Analytics
+    -Company/event host Analytics
     -crowdfunding commisions
+    -EduTech commissions
+    -freelance % cut
+    -collab hub % cut
 
 
 Domain
@@ -47,12 +68,13 @@ Domain
 
 Tech Stack {
     Express, Node
-    SocketIO
+    SocketIO, WebRTC
     PostgreSQL, Prisma,
     Vue, Nuxt,
     ElasticSearch,
     Redis,
     GSAP,
     OAuth,
-    Cloudinary
+    Cloudinary,
+    i18n
 }
