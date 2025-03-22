@@ -2,7 +2,7 @@
 version 1:
     -user-profiles
     -posts ( imgs, vids ) 
-    -connections count (hidden)
+    -tribe members (only account owner can see)
     -activity feed
     -user social-links & bio
     -company-profiles ( badge )
