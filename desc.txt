@@ -6,7 +6,7 @@ version 1:
     -activity feed
     -user social-links & bio
     -company-profiles ( badge )
-    -job boards 
+    -job boards & listings
     -engagement (comment, share, react, bookmark, repost, report)
 
 
