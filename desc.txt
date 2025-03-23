@@ -65,17 +65,3 @@ Domain
     -techtribe.io
 
 
-Tech Stack {
-    Express, Node
-    SocketIO, WebRTC
-    PostgreSQL, Prisma,
-    Vue, Nuxt, Pinia
-    ElasticSearch,
-    Redis,
-    GSAP,
-    Passport(OAuth),
-    Cloudinary,
-    Vue-i18n,
-    Node cron,
-    Chartjs
-}
