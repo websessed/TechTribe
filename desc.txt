@@ -76,5 +76,6 @@ Tech Stack {
     GSAP,
     OAuth,
     Cloudinary,
-    i18n
+    i18n,
+    Node cron
 }
