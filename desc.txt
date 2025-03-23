@@ -2,7 +2,8 @@
 version 1:
     -user-profiles
     -posts ( imgs, vids ) 
-    -tribe members (only account owner can see)
+    -follow, unfollow    
+    -following, followers 
     -activity feed
     -user social-links & bio
     -company-profiles ( badge )
@@ -13,7 +14,7 @@ version 1:
 version 2:
     -real-time chat 
     -physical events/meetups posting
-    -language ( French, Swahili, Arabic, English )
+    -multi-language support 
 
 
 version 3:
@@ -23,6 +24,7 @@ version 3:
 version 4:
     -voice/video calls 
     -online events 
+    -live streaming
 
 
 version 5: 
@@ -30,7 +32,8 @@ version 5:
 
 
 version 6:
-    -pair programming
+    -Q and A hub 
+    -AI assistant 
 
 
 version 7:
@@ -53,29 +56,26 @@ version 10:
     -analytics dashboard (companies & freelancers)
 
 
-Monetization
-    -Job listing fees
-    -Company/event host Analytics
-    -crowdfunding commisions
-    -EduTech commissions
-    -freelance % cut
-    -collab hub % cut
+version 11: 
+    -IDE & text editor 
+    -pair programming
 
 
 Domain
-    -techtribe.africa
+    -techtribe.io
 
 
 Tech Stack {
     Express, Node
     SocketIO, WebRTC
     PostgreSQL, Prisma,
-    Vue, Nuxt,
+    Vue, Nuxt, Pinia
     ElasticSearch,
     Redis,
     GSAP,
-    OAuth,
+    Passport(OAuth),
     Cloudinary,
-    i18n,
-    Node cron
+    Vue-i18n,
+    Node cron,
+    Chartjs
 }
