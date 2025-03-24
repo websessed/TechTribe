@@ -55,6 +55,7 @@ Tech Stack {
     ElasticSearch,
     Cloudinary,
     i18next,
+    Stripe,
     OpenAI,
     Redis
 }
