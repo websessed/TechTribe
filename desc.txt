@@ -2,8 +2,7 @@
 version 1:
     -user-profiles
     -posts ( imgs, vids ) 
-    -follow, unfollow    
-    -following, followers 
+    -friends
     -activity feed
     -personal blog posts 
     -user social-links & bio
