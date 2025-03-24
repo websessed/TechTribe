@@ -1,20 +1,15 @@
 
 version 1:
     -user-profiles
-    -posts ( imgs, vids ) 
-    -friends
-    -activity feed
-    -personal blog posts 
-    -user social-links & bio
-    -company-profiles ( badge )
-    -job boards & listings
-    -engagement (comment, share, react, bookmark, repost, report)
+    -company-profiles
+    -engagement metrics
+    -top menu (fyp, friends, jobs, projects (open-sourced))
+    -bottom menu btns (AI, explore, home, inbox(notifs), user)
 
 
 version 2:
     -real-time chat 
-    -physical events/meetups posting
-    -multi-language support 
+    -multi-language support (Spanish, Chinese, Hindi, French, German, Russian)
 
 
 version 3:
@@ -22,46 +17,43 @@ version 3:
 
 
 version 4:
-    -voice/video calls 
-    -online events 
-    -live streaming
+    -physical events/meetups posting
+    -online events with live chat
 
 
-version 5: 
-    -online spaces (audio)
-
-
-version 6:
-    -questions & answers hub 
+version 5:
     -AI assistant 
 
 
-version 7:
+version 6:
     -freelance marketplace
     -collab hub
 
 
-version 8:
+version 7:
     -online hackathons
     -skill-based job matching
 
 
-version 9: 
-    -virtual pitching
+version 8:
+    -project pitches (desc, vid)
     -crowdfunding
-    -vc funding
 
 
-version 10:
-    -analytics dashboard (companies & freelancers)
-
-
-version 11: 
-    -IDE & text editor 
-    -pair programming
+version 9:
+    -analytics dashboard (for everybody)
 
 
 Domain
     -techtribe.io
 
+
+Tech Stack {
+    React, Next, Zustand,
+    PostgreSql, Prisma,
+    SocketIO, WebRTC,
+    Cloudinary,
+    i18next,
+    OpenAI
+}
 
