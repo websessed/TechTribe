@@ -5,6 +5,7 @@ version 1:
     -follow, unfollow    
     -following, followers 
     -activity feed
+    -personal blog posts 
     -user social-links & bio
     -company-profiles ( badge )
     -job boards & listings
@@ -32,7 +33,7 @@ version 5:
 
 
 version 6:
-    -Q and A hub 
+    -questions & answers hub 
     -AI assistant 
 
 
