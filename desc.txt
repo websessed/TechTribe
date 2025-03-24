@@ -3,45 +3,37 @@ version 1:
     -user-profiles
     -company-profiles
     -engagement metrics
-    -top menu (fyp, friends, jobs, projects (open-sourced))
-    -bottom menu btns (AI, explore, home, inbox(notifs), user)
+    -top menu (FYP, friends posts, jobs, projects)
+    -bottom menu btns (collab, explore, home, inbox {notifs & updates}, user)
 
 
 version 2:
     -real-time chat 
+    -voice notes 
     -multi-language support (Spanish, Chinese, Hindi, French, German, Russian)
 
 
 version 3:
     -online communities/groups
-
-
-version 4:
-    -physical events posting
-    -online events with live chat
-
-
-version 5:
-    -AI chatbot
-
-
-version 6:
-    -freelance marketplace
-    -collab hub
-
-
-version 7:
-    -online hackathons
     -skill-based job matching
 
 
-version 8:
-    -project pitches (desc, vid)
+version 4:
+    -projects (desc, vid {2 min}, timeline, links, looking for)
     -crowdfunding
 
 
-version 9:
+version 5:
+    -online hackathons
     -analytics dashboard (for everybody)
+
+
+version 6:
+    -AI chatbot
+
+
+version 7:
+    -collab hub (trello for project mgmt, zoom for comm)
 
 
 Domain
