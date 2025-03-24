@@ -17,12 +17,12 @@ version 3:
 
 
 version 4:
-    -physical events/meetups posting
+    -physical events posting
     -online events with live chat
 
 
 version 5:
-    -AI assistant 
+    -AI chatbot
 
 
 version 6:
@@ -52,8 +52,10 @@ Tech Stack {
     React, Next, Zustand,
     PostgreSql, Prisma,
     SocketIO, WebRTC,
+    ElasticSearch,
     Cloudinary,
     i18next,
-    OpenAI
+    OpenAI,
+    Redis
 }
 
