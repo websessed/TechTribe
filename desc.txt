@@ -47,6 +47,7 @@ Extra-curriculars:
     -skill quests (monthly tasks for interested users to complete)
     -april fools day fun
     -techtribe certifications (for successful project builders)
+    
 
 Tech Stack {
     React, Next, Zustand,
