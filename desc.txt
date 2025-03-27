@@ -1,15 +1,17 @@
 
 version 1:
-    -user-profiles
+    -user-profiles 
+    -user-profiles (posts {tweets}, replies {reposts, quotes, comments}, media, articles, likes {hide, show})
     -company-profiles
     -engagement metrics
+    -connections (only if both users add each other {hide, show})
     -top menu (FYP, friends posts, jobs, projects)
     -bottom menu btns (collab, explore, home, inbox {notifs & updates}, user)
+    -diamond members {first 1000 users gets a diamond badge added to their name}
 
 
 version 2:
-    -real-time chat 
-    -voice notes 
+    -messaging (texts & voice notes)
     -multi-language support (Spanish, Chinese, Hindi, French, German, Russian)
 
 
@@ -33,20 +35,11 @@ version 6:
 
 
 version 7:
-    -collab hub (trello for project mgmt, zoom for comm)
+    -collab hub (project mgmt, comm, kanban, meetings)
 
 
 Domain
     -techtribe.io
-
-
-Extra-curriculars:
-    -referral program
-    -annual techtribe wrapped (users, communities)
-    -profile badges
-    -skill quests (monthly tasks for interested users to complete)
-    -april fools day fun
-    -techtribe certifications (for successful project builders)
     
 
 Tech Stack (MVP {version 1 - 3}) {
